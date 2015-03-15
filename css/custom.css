@@ -1,0 +1,27 @@
+body{
+	background-color: #0F1A3E;
+	font-family: 'Abel', sans-serif;
+}
+
+div#main {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div#logo-div {
+	text-align:center;
+	margin-top: 150px;
+}
+
+#coming-soon {
+	font-size: 30px;
+  font-weight: 400;
+  color: white;
+
+  margin-top: 50px;
+}
+
+#logo {
+	width:304px;
+	height:228px;
+}
